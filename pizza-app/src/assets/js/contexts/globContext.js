@@ -11,7 +11,7 @@ const GlobContext = createContext();
 
 const initialState = {
     products: [
-        { id: 1, title: 'Macbook Pro 13' },
+        { id: 1, title: 'Margaritta' },
     ],
     basket: {
         items: []
